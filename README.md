@@ -3,7 +3,7 @@
 ## SetUp
 
 - Install [node.js](https://nodejs.org/en/) from official website.
-- Clone the repo with `git clone https://github.com/girishsontakke/clothing-shop.git ` command on your favourite terminal.
+- Clone the repo with `https://github.com/JoeyFan1210/SuiteShop-Ecommerce-site.git ` command on your favourite terminal.
 - Then change the directory to clothing shop `cd clothing-shop`
 - Then run `yarn` or `npm install` based on your preference.
 
